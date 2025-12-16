@@ -1,11 +1,10 @@
 AYUSH RANJAN
-AI Engineer | Software Developer
+AI Engineer
 
 Location: India
-Email: your.email@example.com
-Phone: +91-XXXXXXXXXX
-LinkedIn: linkedin.com/in/yourprofile
-GitHub: github.com/yourprofile
+Email: ranjanayush399@gmail.com
+Phone: +91-9508841560
+LinkedIn:https://www.linkedin.com/in/ayush-ranjanmecheng
 
 
 ---
@@ -106,18 +105,6 @@ EDUCATION
 Bachelor of Technology (B.Tech) – Mechanical Engineering
 Currently Pursuing
 
-
----
-
-CERTIFICATIONS & LEARNING
-
-Machine Learning Fundamentals
-
-Python for Data Science
-
-Web Development (HTML, CSS, JavaScript)
-
-AI and NLP Basics
 
 
 
