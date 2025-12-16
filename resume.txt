@@ -1,0 +1,135 @@
+AYUSH RANJAN
+AI Engineer | Software Developer
+
+Location: India
+Email: your.email@example.com
+Phone: +91-XXXXXXXXXX
+LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourprofile
+
+
+---
+
+PROFESSIONAL SUMMARY
+Motivated AI Engineer and Software Developer with hands-on experience in building AI-driven applications, web platforms, and automation systems. Strong foundation in Python, machine learning, NLP, and full-stack development. Experienced in working on real-world projects including AI assistants, web apps, and data-driven systems. Proactive learner with startup exposure and strong problem-solving skills.
+
+
+---
+
+TECHNICAL SKILLS
+
+Programming Languages:
+Python, JavaScript, HTML, CSS
+
+AI / Machine Learning:
+Machine Learning, NLP, Feature Extraction, Classification Models, TensorFlow (Basics)
+
+Frameworks & Libraries:
+Flask, NumPy, Pandas, NLTK, React (Basics)
+
+Web Development:
+Frontend & Backend Development, REST APIs
+
+Databases:
+MySQL, SQLite
+
+Tools & Platforms:
+Git, GitHub, VS Code, Linux (Basics)
+
+
+---
+
+PROJECTS
+
+Rishi AI – Intelligent AI Assistant
+
+Designed and developed an AI-based conversational assistant.
+
+Implemented NLP techniques for intent detection and response generation.
+
+Integrated speech recognition and text-to-speech functionality.
+
+Built a modular backend to improve scalability and maintainability.
+
+
+AI-Powered Music Application
+
+Developed a web-based music application using HTML and JavaScript.
+
+Implemented voice-based song selection using conversational commands.
+
+Designed a user-friendly, friend-like interaction experience.
+
+
+Supermarket AI (Concept Project)
+
+Designed an AI-based automated billing system using image recognition.
+
+Created workflow for object detection, billing automation, and exit verification.
+
+Focused on reducing manual checkout time and improving efficiency.
+
+
+Web Application Development Projects
+
+Built responsive web interfaces and backend services.
+
+Worked on API integration, authentication, and database connectivity.
+
+
+
+---
+
+INTERNSHIP EXPERIENCE
+
+Software Development Intern – Bluestock.in
+
+Worked on both frontend and backend development of an IPO-related web platform.
+
+Developed UI components and backend logic to enhance platform functionality.
+
+Collaborated with team members to debug and optimize features.
+
+
+Mechanical Engineering Intern – Indian Railways
+
+Gained exposure to real-world mechanical systems and maintenance operations.
+
+Developed analytical and problem-solving skills through on-site engineering work.
+
+
+
+---
+
+EDUCATION
+
+Bachelor of Technology (B.Tech) – Mechanical Engineering
+Currently Pursuing
+
+
+---
+
+CERTIFICATIONS & LEARNING
+
+Machine Learning Fundamentals
+
+Python for Data Science
+
+Web Development (HTML, CSS, JavaScript)
+
+AI and NLP Basics
+
+
+
+---
+
+KEY STRENGTHS
+
+Strong analytical and logical thinking
+
+Quick learner with a growth mindset
+
+Startup-oriented and innovation-driven
+
+Good communication and teamwork skills
+
